@@ -1,0 +1,1 @@
+Funcionalidade do botão na aplicação
